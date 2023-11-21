@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\bin\Debug\hastane v 1-1359.exe.config
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\bin\Debug\hastane v 1-1359.exe
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\bin\Debug\hastane v 1-1359.pdb
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\obj\Debug\hastane v 1-1359.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\obj\Debug\hastane v 1-1359.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\obj\Debug\hastane_v_1_1359.Form1.resources
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\obj\Debug\hastane_v_1_1359.Properties.Resources.resources
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\obj\Debug\hastane v 1-1359.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\obj\Debug\hastane v 1-1359.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\obj\Debug\hastane v 1-1359.exe
+C:\Users\User\source\repos\hastane v 1-1359\hastane v 1-1359\obj\Debug\hastane v 1-1359.pdb
